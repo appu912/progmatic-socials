@@ -1,1 +1,1 @@
-"# progmatic-socials" 
+# progmatic-socials
